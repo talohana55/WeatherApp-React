@@ -1,6 +1,8 @@
 # Description
-Weather application by choice of city, country and region, updated with information daily according to existing database.
+Weather application by choice of city, country and region.
+updated with information daily according to existing database.
 Good practice in React
+
 ![weather app - img](https://user-images.githubusercontent.com/68163421/110661257-0d848700-81cd-11eb-9522-33e9f137c607.png)
 
 # Getting Started with Create React App
